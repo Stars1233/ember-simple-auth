@@ -1,5 +1,15 @@
 # Changelog
 
+## Release (2025-04-27)
+
+
+
+#### :memo: Documentation
+* [#2968](https://github.com/mainmatter/ember-simple-auth/pull/2968) Remove this.get use from readme ([@kennstenicht](https://github.com/kennstenicht))
+
+#### Committers: 1
+- Christoph Wiedenmann ([@kennstenicht](https://github.com/kennstenicht))
+
 ## Release (2025-03-31)
 
 * ember-simple-auth 8.0.0 (major)
